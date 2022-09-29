@@ -317,17 +317,10 @@ $secondary-color: #5b86e5;
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 
-## Authors
 
-- **Anil Seervi** - [https://github.com/AnilSeervi](https://github.com/AnilSeervi)
 
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments 🎁
-
-I was motivated and inspired while learning [ZTM: Complete Web Developer](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) to create a simpler version of [simplefolio](https://github.com/cobidev/simplefolio) for those who didn't know node and packages.
 
 ---
 
